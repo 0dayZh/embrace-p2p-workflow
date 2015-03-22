@@ -92,6 +92,14 @@ Peer2Peer, 通俗讲就是对等网络, Peer 有 "伙伴" 之意, 所以可以�
         - 这种情况下，Repo 的 owner 应尽可能与 contributor 协商，找出至少 2 人进行审核
         - 当确定了 contributor 后, 如果 contributor 未能完成审核，将直接认为 Pull request 审核无效，不能进行 "责任转嫁"
 
+## 协同工作
+
+除了使用 GitHub 来做本书的内容管理外, 为了更便于人与人的沟通, 尝试在现阶段引入 Slack 来进行.
+
+你可以在 issue 中提交申请加入 Slack team 并留下你的邮箱, 我会邀请你加入.
+
+或者你比较在意邮箱的私密性, 你可以直接 [发邮件](mailto:0day.zh@gmail.com) 给我, 我同样会给你发送邀请.
+
 ## 许可协议
 
 CC0 1.0 Universal 详见 LICENSE
