@@ -2,6 +2,8 @@
 
 这是一本书, 本书讲述参与分布式办公中不同人的故事, 经历, 经验及感悟.
 
+参与本书撰写的每个人都会有自己的一个 Chapter, 自由划分 Sections 来进行书写, 从而形成一本彼此独立的纪录, 思考, 论述关于 P2P 工作流的文集.
+
 ## 当提到 P2P 时我们在说什么
 
 Peer2Peer, 通俗讲就是对等网络, Peer 有 "伙伴" 之意, 所以可以直译为 "伙伴对伙伴", 就是我们常说的 soho 办公或 remote 办公的一级抽象.
@@ -30,6 +32,19 @@ Peer2Peer, 通俗讲就是对等网络, Peer 有 "伙伴" 之意, 所以可以�
         - 为最初进入的贡献者提供可信度担保的个人或公司
     - 审核者
         - 当贡献者所写内容并入本书后，他就可以成为以审核者的身份进行其他贡献者文章的审核了
+
+### 书写工具
+
+本书以 GitBook 结构为基础构建, 所以推荐参与者使用 [GitBook Editor](https://www.gitbook.com/editor) 进行书写
+
+### 开始写作
+
+- 先确认你符合 [贡献者的条件要求](#贡献者的条件要求)
+- [optinal] 发邮件给我或提 issue 申请加入 Slack team
+- ```Fork``` https://github.com/p2p-pub/embrace-p2p-workflow
+- ```git clone https://github.com/${YOUR_GITHUB_ACCOUNT_NAME}/embrace-p2p-workflow``` 到你的本地
+- 使用 GitBook Editor 打开 ```embrace-p2p-workflow``` 目录
+- 创建你自己的 Chapter, 开始属于你自己的写作
 
 ## 如何保证自己写的内容与其他人不冲突
 
